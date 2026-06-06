@@ -1,0 +1,24 @@
+{
+  "name": "openapi-mock-one",
+  "version": "0.1.0",
+  "description": "Start a mock HTTP server from an OpenAPI JSON file.",
+  "type": "module",
+  "bin": {
+    "openapi-mock-one": "./bin/openapi-mock-one.js"
+  },
+  "scripts": {
+    "test": "node --test",
+    "start": "node ./bin/openapi-mock-one.js"
+  },
+  "keywords": [
+    "developer-tools",
+    "ai",
+    "cli",
+    "github"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  }
+}
