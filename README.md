@@ -8,3 +8,7 @@ curl http://localhost:3333/pets
 ```
 
 The first version supports exact JSON paths and response examples.
+
+## Support Scope
+
+The first version supports OpenAPI JSON files, exact path matching, and JSON response examples. It is meant for fast local prototyping.
